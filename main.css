@@ -24,48 +24,37 @@ a
 
 
 
-
-#banner
-{
-	background-image: url("images/black.png");
-	background-repeat: no-repeat;
-	left: 300px;
-	top: 50px;
-	background-size: 750px 500px;
-	position: fixed
-}
-
-#banner1
-{
-	position: relative;
-	padding: 100px 400px 400px 400px;
-}
-
-#title
+#backimage
 {
 	position: fixed;
 	left: 500px;
-	bottom: 450px;
+	bottom: 200px;
+}
+#title
+{
+	position: fixed;
+	left: 610px;
+	bottom: 550px;
 }
 #play
 {
 	
 	position: fixed;
-	left: 580px;
-	bottom: 350px;
+	left: 750px;
+	bottom: 450px;
 	
 }
 #faq
 {
 	position: fixed;
-	left: 600px;
-	bottom: 265px;
+	left: 810px;
+	bottom: 355px;
 }
 #about
 {
 	position: fixed;
-	left: 580px;;
-	bottom: 175px;
+	left: 760px;;
+	bottom: 255px;
 }
 
 
