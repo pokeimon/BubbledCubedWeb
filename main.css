@@ -32,38 +32,40 @@ a
 	left: 300px;
 	top: 50px;
 	background-size: 750px 500px;
-	position: relative
+	position: fixed
 }
 
 #banner1
 {
 	position: relative;
-	padding: 15em 10em;
+	padding: 100px 400px 400px 400px;
 }
 
 #title
 {
-	position: relative;
-	right: 15px;
-	bottom: 225px;
+	position: fixed;
+	left: 500px;
+	bottom: 450px;
 }
 #play
 {
-	position: relative;
-	left: 80px;
-	bottom: 240px;
+	
+	position: fixed;
+	left: 580px;
+	bottom: 350px;
+	
 }
 #faq
 {
-	position: relative;
-	left: 110px;
-	bottom: 270px;
+	position: fixed;
+	left: 600px;
+	bottom: 265px;
 }
 #about
 {
-	position: relative;
-	left: 85px;
-	bottom: 290px;
+	position: fixed;
+	left: 580px;;
+	bottom: 175px;
 }
 
 
