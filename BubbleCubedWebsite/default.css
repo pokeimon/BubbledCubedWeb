@@ -1,0 +1,81 @@
+
+html, body
+{
+	height: 100%;
+}
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: #FFFFFF;
+	/* background-image: url("images/black.png"); */
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 12pt;
+	font-weight: 300;
+	color: #FFFFFF;
+}
+
+
+a
+{
+	color: #FFFFFF;
+}
+
+
+
+
+
+
+/*********************************************************************************/
+/* Header                                                                        */
+/*********************************************************************************/
+
+	#header-wrapper
+{
+	background-image: url("images/tv3.png");
+	background-repeat: no-repeat;
+	right: 100px;
+	bottom: 50px;
+	background-size: 1350px 750px;
+	position: relative
+	
+	
+}
+
+#header
+{
+	position: relative;
+	padding: 10em 10em;
+}
+
+#UnityObject
+{
+	position: relative;
+	left: 190px;
+
+}
+
+#bluebutton
+{
+	position: relative;
+	bottom: 200px;
+	left: 1020px;
+}
+#greenbutton
+{
+	position: relative;
+	bottom: 260px;
+	left: 1095px;
+}
+#yellowbutton
+{
+	position: relative;
+	bottom: 320px;
+	left: 1170px;
+}
+
+
+
+
+
