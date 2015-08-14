@@ -24,37 +24,46 @@ a
 
 
 
-#backimage
+#container
 {
-	position: fixed;
-	left: 500px;
-	bottom: 200px;
+	position: relative;
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	background-image: url("images/black.png");
+	background-repeat: no-repeat;
+	max-width: 800px;
+	max-height: 800px;
+	
 }
+
 #title
 {
-	position: fixed;
-	left: 610px;
-	bottom: 550px;
+	position: inherit;
+	left: 230px;
+	bottom: 0px;;
 }
 #play
 {
 	
-	position: fixed;
-	left: 750px;
-	bottom: 450px;
+	position: relative;
+	left: 300px;
+	bottom: 0px;
 	
 }
 #faq
 {
-	position: fixed;
-	left: 810px;
-	bottom: 355px;
+	position: relative;
+	left: 320px;
+	bottom: 10px;
 }
 #about
 {
-	position: fixed;
-	left: 760px;;
-	bottom: 255px;
+	position: relative;
+	left: 305px;
+	bottom: 10px;
 }
 
 
