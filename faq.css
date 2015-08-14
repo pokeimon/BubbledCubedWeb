@@ -17,7 +17,7 @@ body
 	position:fixed;
 	overflow-y:hidden;
 	overflow-x:hidden;
-	width:100%;	
+	width:100%;
 }
 
 
@@ -47,27 +47,48 @@ a
 {
 	position: inherit;
 	left: 230px;
-	bottom: 0px;;
+	bottom: 25px;;
 }
+
+#home
+{
+	position: relative;
+	left: 330px;
+	bottom: 15px;
+}
+ 
 #play
 {
 	
 	position: relative;
-	left: 300px;
-	bottom: 0px;
+	left: 305px;
+	bottom: 35px;
 	
 }
-#faq
+
+#controls
 {
+	
 	position: relative;
-	left: 320px;
-	bottom: 10px;
+	left: 270px;
+	bottom: 60px;
+	
 }
+
+#gameplay
+{
+	
+	position: relative;
+	left: 290px;
+	bottom: 70px;
+	
+}
+
 #about
 {
 	position: relative;
-	left: 305px;
-	bottom: 10px;
+	left: 330px;
+	bottom: 80px;
 }
 
 

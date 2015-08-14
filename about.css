@@ -17,7 +17,7 @@ body
 	position:fixed;
 	overflow-y:hidden;
 	overflow-x:hidden;
-	width:100%;	
+	width:100%;
 }
 
 
@@ -31,44 +31,34 @@ a
 #container
 {
 	position: relative;
-	border: 2px solid black;
+	
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 100px;
+	margin-top: auto;
 	margin-bottom: auto;
 	background-image: url("images/black.png");
 	background-repeat: no-repeat;
-	max-width: 800px;
-	max-height: 800px;
+	max-width: 400x;
+	max-height: 400px;
+	top:50px;
+	left:300px;
 	
 }
 
 #title
 {
 	position: inherit;
-	left: 230px;
-	bottom: 0px;;
+	left: 130px;
+	bottom: 25px;;
 }
-#play
-{
-	
-	position: relative;
-	left: 300px;
-	bottom: 0px;
-	
-}
-#faq
+
+#home
 {
 	position: relative;
-	left: 320px;
-	bottom: 10px;
+	left: 275px;
+	bottom: 15px;
 }
-#about
-{
-	position: relative;
-	left: 305px;
-	bottom: 10px;
-}
+ 
 
 
 
