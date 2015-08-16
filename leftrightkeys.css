@@ -55,18 +55,12 @@ a
 	height: 800px;
 }
 
-#instructions
-{
-	position: inherit;
-	left: 250px;
-	bottom: 430px;
-}
 
 #next
 {
 	position: inherit;
 	left: 715px;
-	bottom: 600px;
+	bottom: 650px;
 }
 
 #home
@@ -76,12 +70,7 @@ a
 	bottom: 775px;
 }
  
-#faq
-{
-	position: relative;
-	left: 5px;
-	bottom: 575px;
-}
+
 
 
 

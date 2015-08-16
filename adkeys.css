@@ -42,7 +42,7 @@ a
 	max-height: 800px;
 	top:100px;
 	width: 800px;
-	height: 800px;
+	height: 550px;
 	
 }
 
@@ -50,38 +50,27 @@ a
 {
 	position: inherit;
 	left: 110px;
-	top: 25px;
+	top: 50px;
 	width: 1200px;
 	height: 800px;
 }
 
-#instructions
-{
-	position: inherit;
-	left: 250px;
-	bottom: 450px;
-}
 
 #next
 {
 	position: inherit;
-	left: 700px;
-	bottom: 550px;
+	left: 715px;
+	bottom: 650px;
 }
 
 #home
 {
 	position: relative;
-	left: 0px;
-	bottom: 340px;
+	left: 15px;
+	bottom: 775px;
 }
  
-#faq
-{
-	position: relative;
-	left: 5px;
-	bottom: 350px;
-}
+
 
 
 
