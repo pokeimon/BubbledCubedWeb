@@ -9,7 +9,8 @@ body
 	margin: 0px;
 	padding: 0px;
 	background: #FFFFFF;
-	/* background-image: url("images/black.png"); */
+/* 	background-image: url("images/stars.jpg");  */
+	background-repeat: no-repeat;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 12pt;
 	font-weight: 300;
