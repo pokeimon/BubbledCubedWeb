@@ -1,0 +1,78 @@
+
+html, body
+{
+	height: 100%;
+}
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: #FFFFFF;
+	background-image: url("images/stars.jpg");
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 12pt;
+	font-weight: 300;
+	color: #FFFFFF;
+	position:fixed;
+	overflow-y:hidden;
+	overflow-x:hidden;
+	width:100%;
+}
+
+
+a
+{
+	color: #FFFFFF;
+}
+
+
+
+#container
+{
+	position: relative;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	background-image: url("images/black.png");
+	background-repeat: no-repeat;
+	max-width: 800x;
+	max-height: 800px;
+	top:100px;
+	width: 800px;
+	height: 550px;
+	
+}
+
+#title
+{
+	position: inherit;
+	left: 110px;
+	top: 50px;
+	width: 1200px;
+	height: 800px;
+}
+
+
+#next
+{
+	position: inherit;
+	left: 650px;
+	bottom: 400px;
+}
+
+#home
+{
+	position: relative;
+	left: 15px;
+	bottom: 775px;
+}
+ 
+
+
+
+
+
+

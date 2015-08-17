@@ -31,32 +31,43 @@ a
 #container
 {
 	position: relative;
-	border: 2px solid black;
+	
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 100px;
+	margin-top: auto;
 	margin-bottom: auto;
 	background-image: url("images/black.png");
 	background-repeat: no-repeat;
-	max-width: 800px;
+	max-width: 800x;
 	max-height: 800px;
-	width: 600px;
-	height:500px;
+	top:100px;
+	width: 800px;
+	height: 550px;
 	
 }
 
 #title
 {
 	position: inherit;
-	left: 180px;
-	bottom: 0px;;
+	left: 110px;
+	top: 50px;
+	width: 1200px;
+	height: 800px;
+}
+
+
+#next
+{
+	position: inherit;
+	left: 650px;
+	bottom: 400px;
 }
 
 #home
 {
 	position: relative;
-	left: 240px;
-	bottom: 0px;
+	left: 15px;
+	bottom: 775px;
 }
  
 
